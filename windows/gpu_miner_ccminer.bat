@@ -1,1 +1,0 @@
-cd data/ccminer && ccminer.exe -a sha256d -o stratum+tcp://nukra.io:1333 -u NUKRA_WALLET -p dR2oBQ3K1zYMZQtJFZeAerhWxaJ5Lqeq9J2

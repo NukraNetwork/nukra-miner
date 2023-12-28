@@ -1,1 +1,1 @@
-cd data/minerd && minerd.exe -a sha256d -o stratum+tcp://nodeA.nukra.io:1333 -u NUKRA_WALLET -p dR2oBQ3K1zYMZQtJFZeAerhWxaJ5Lqeq9J2
+cd data/minerd && minerd.exe -a sha256d -o stratum+tcp://node1.nukra.io:1333 -u NUKRA_WALLET -p dR2oBQ3K1zYMZQtJFZeAerhWxaJ5Lqeq9J2

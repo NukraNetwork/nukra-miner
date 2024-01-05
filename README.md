@@ -1,6 +1,7 @@
 # Documentation <!-- omit in toc -->
 
 - [Requirements](#requirements)
+- [Nukra Network Pool](#nukra-network-pool)
 - [Miners](#miners)
   - [CPU Minerd](#cpu-minerd)
     - [Windows](#windows)
@@ -11,6 +12,10 @@
 # Requirements
 
 You need a [Nukra Wallet](https://github.com/NukraNetwork/nukra-wallet) address to mine.
+
+# Nukra Network Pool
+
+You can use our pool to mine Nukra, the address is `stratum+tcp://node1.nukra.io:1333`, remember use a valid [Nukra Wallet](https://github.com/NukraNetwork/nukra-wallet) address.
 
 # Miners
 
